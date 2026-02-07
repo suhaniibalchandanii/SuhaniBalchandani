@@ -20,7 +20,7 @@ I’m exploring UI/UX, product design, and tech-driven creativity while building
 ## 🌍 Live Website
 
 🔗 Visit my portfolio here:
-👉 https://suhaniibalchandanii.github.io/SuhaniBalchandani/#skills
+👉 https://suhaniibalchandanii.github.io/SuhaniBalchandani/
 
 ## 🤝 Connect With Me
 
